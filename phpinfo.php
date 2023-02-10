@@ -1,3 +1,4 @@
 <?php 
 echo "Reviewing php extensions installed"
-phpinfo(); ?>
+phpinfo(); 
+?>
