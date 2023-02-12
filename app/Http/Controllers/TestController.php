@@ -38,6 +38,7 @@ class TestController extends Controller
 		
 		#test contoller bug fixed 
 		#pull request code below
+		#pull request 2
 	
 	 }
 	
