@@ -36,7 +36,7 @@ class TestController extends Controller
 			return Redirect::back()->with("success", "Thank you for form submission");
 		}
 		
-		
+		#test contoller bug fixed
 	
 	 }
 	
